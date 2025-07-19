@@ -3,11 +3,12 @@ import styled from 'styled-components';
 
 const FooterContainer = styled.footer`
   background-color: #282c34;
-  padding: 10px;
+  padding: 5px;
   color: white;
   text-align: center;
   position: fixed;
   width: 100%;
+  height: 5%;
   bottom: 0;
 `;
 
@@ -32,8 +33,6 @@ const SocialLogo = styled.img`
 const Footer = () => {
   return (
     <FooterContainer>
-      <p>1400 Moss Rose CIR, Irving, Texas, 76501</p>
-      <p>Phone: (559) - 214-7978</p>
       <div>
         <SocialLink href="https://www.linkedin.com/in/manichakravardhan-reddy-donuru-2aa031119/" target="_blank" rel="noopener noreferrer">
           <SocialLogo src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Logo" />

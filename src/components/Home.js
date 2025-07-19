@@ -8,8 +8,10 @@ const Home = () => {
             <ResumeContainer>   
             <h1>Welcome to My Resume Website</h1>
             <p>Hello! My name is Mani Chakravardhan Donuru.</p>
-            <p>I am a passionate software developer with expertise in various technologies.</p>
-            <p>Feel free to explore my website to know more about my skills and projects.</p>
+            <p>Experienced software engineer with 6 years of expertise in full software development life cycle, including
+designing, testing, and maintaining software products. Strong proficiency in Java, Python, React with a solid
+understanding of data structures and algorithms. Experienced in the development of finance systems and large
+data processing platforms. Adept at creating scalable, high-performance software in distributed environment.</p>
             </ResumeContainer>
         </div>
     );
